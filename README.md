@@ -2,6 +2,3 @@
 "# flask-mnist-app" 
 "# flask-mnist-app" 
 "# flask-mnist-app" 
-"# zoning_classification-app" 
-"# zoning_classification-app" 
-"# zoning_classification-app" 
